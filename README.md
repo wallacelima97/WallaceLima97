@@ -1,4 +1,4 @@
-<h3>Olá! Eu sou o Wallace, UI/UX Designer e estudante de front end 😄 </h3>
+<h3>Olá! Eu sou o Wallace, UI/UX Designer e estudante de Front End 😄 </h3>
 
 <div align="center">
   <a href="https://github.com/wallacelima97">
