@@ -1,4 +1,4 @@
-Olá! Eu sou o Wallace, estudante de front end 😄
+<h3>Olá! Eu sou o Wallace, estudante de front end 😄 </h3>
 
 <div align="center">
   <a href="https://github.com/wallacelima97">
