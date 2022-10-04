@@ -5,7 +5,7 @@
 <i>Sou Wallace, estou em busca de minha primeira vaga como desenvolvedor Front-End</i>
 
 
-- 🎓 - Estudante de Gestão da tecnologia da informação pela FATEC BARUERI
+- 🎓 - Estudante de Gestão da Tecnologia da Informação pela FATEC BARUERI
 - 🌱 - Atualmente estudando ReactJS
 - 📫 - Entre em contato comigo: wallacelima1997@gmail.com
 
