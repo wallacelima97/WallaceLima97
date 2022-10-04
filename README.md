@@ -2,7 +2,7 @@
 
 🐺<b> Sobre Mim:</b>
 
-<i>Sou Wallace, estou em busca de minha primeira vaga como desenvolvedor Front-End</i>
+<i>Sou Wallace, estou em busca da minha primeira vaga como desenvolvedor Front-End</i>
 
 
 - 🎓 - Estudante de Gestão da Tecnologia da Informação pela FATEC BARUERI
