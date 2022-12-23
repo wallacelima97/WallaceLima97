@@ -6,7 +6,7 @@
 
 
 - 🎓 - Estudante de Gestão da Tecnologia da Informação pela FATEC BARUERI
-- 🌱 - Atualmente estudando ReactJS e TypeScript
+- 🌱 - Atualmente estudando ReactJS.
 - 📫 - Entre em contato comigo: wallacelima1997@gmail.com
 
 
